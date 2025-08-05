@@ -1,8 +1,3 @@
-//
-// !!! WARNING !!! AUTO-GENERATED FILE!
-// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
-// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
-//
 {
     "configurations": [
         {
@@ -10,29 +5,36 @@
             "includePath": [
                 "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/include",
                 "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/src",
+                "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/.pio/libdeps/uno/Adafruit BME280 Library",
+                "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/.pio/libdeps/uno/Adafruit Unified Sensor",
+                "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/.pio/libdeps/uno/Adafruit BusIO",
+                "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/.pio/libdeps/uno/FreeRTOS/src",
                 "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/variants/standard",
                 "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                 "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
-                ""
+                "",
+                "${workspaceFolder}"
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
                     "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/include",
                     "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/src",
+                    "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/.pio/libdeps/uno/Adafruit BME280 Library",
+                    "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/.pio/libdeps/uno/Adafruit Unified Sensor",
+                    "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/.pio/libdeps/uno/Adafruit BusIO",
+                    "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     "/Users/reevefernandes/Desktop/Dev/nano-freertos-sensor-node/.pio/libdeps/uno/FreeRTOS/src",
                     "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/variants/standard",
                     "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                    "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                     "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                    "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     ""
                 ]
             },
