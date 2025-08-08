@@ -1,3 +1,8 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
 {
     "configurations": [
         {
@@ -16,8 +21,7 @@
                 "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "/Users/reevefernandes/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                "",
-                "${workspaceFolder}"
+                ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
