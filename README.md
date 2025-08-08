@@ -1,6 +1,8 @@
 
 # FreeRTOS-Based Sensor Node with Arduino Uno & BME280
 
+![Week 1 Grafana – Temperature Pinch Test](assets/week1_grafana_temp.gif)
+
 ## 📌 Overview
 This project demonstrates a real-time sensor node built using:
 
